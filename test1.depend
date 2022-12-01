@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666553689 source:d:\!!my works\2022 probes\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1668622945 source:d:\!!my works\2022 probes\tes2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
